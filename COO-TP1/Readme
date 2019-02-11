@@ -1,0 +1,16 @@
+Karti Adeniss 
+Pelage François-Xavier 
+
+Les commandes sont : 
+
+-javac generics/*.java (Pour compiler l'integralité des fichiers demandés dans le dossier generics, y compris le fichier test. )
+
+-javac scanner/*.java (Pour compiler le fichier demande dans le dossier generics. )
+
+-javac -classpath test-1.7.jar src/generics/CollectorTest.java
+
+
+-java -jar test-1.7.jar src/generics/CollectorTest
+
+Les commandes marchent via Eclipse Neon mais ne marchent pas via les commandes du terminal. 
+

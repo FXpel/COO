@@ -1,0 +1,21 @@
+Quel est le nom de l'auteur du Seigneur des Anneaux ? 
+(StringAnswer)Tolkien
+1
+Frodo est un Hobbit ?
+(BooleanAnswer)oui
+1
+Combien de membres composent la Compagnie de l'Anneau ?
+(IntegerAnswer)9
+2
+Gandalf est un humain ?
+(BooleanAnswer)non
+3
+En quelle annee est paru le Seigneur des Anneaux ?
+(IntegerAnswer)1954
+3
+Donnez le nom de l'un des hobbits de la Compagnie de l'Anneau ? 
+(MultiAnswer)Frodo;Pippin;Merry;Sam
+1
+Comment s'appelle le poney qui accompagne la compagnie jusqu'a la Moria ?
+(MultiChoiceAnswer)Bill|Bourricot|Robert|Jolly Jumper
+3
